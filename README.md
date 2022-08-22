@@ -6,6 +6,7 @@
 -    Email: kohi@nilware.io
 -    Discord: ConstantPayne#1516
 
+```
 From an early age, I was fascinated with electronics.
 Used to brake/fix vinyl players, boomboxes, and stereos.
 Then got Hooked with early consoles like Atari 2600, Sega Megadrive, Gameboy, etc.
@@ -19,3 +20,4 @@ I'm fortunate to use my passion and help you with anything your project needs.
 From hardware to software and from game development with C# and unity to
 making web-based applications with Javascript/Typescript, Meteor, and MongoDB.
 I'm experienced enough to make any Dream... Reality!
+```
