@@ -8,7 +8,7 @@
 
 ```
 From an early age, I was fascinated with electronics.
-Used to brake/fix vinyl players, boomboxes, and stereos.
+Used to break/fix vinyl players, boomboxes, and stereos.
 Then got Hooked with early consoles like Atari 2600, Sega Megadrive, Gameboy, etc.
 Then got my Personal Computer exactly when windows 95 got out. Back then 
 my friends and I were gathering old, out-of-date machines running DOS or
